@@ -20,6 +20,5 @@ sauce_connect.log
 *.swp
 build/
 *.egg-info/
-dist
 nbproject/
 *.iml
